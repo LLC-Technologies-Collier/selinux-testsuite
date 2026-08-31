@@ -1,0 +1,5 @@
+tests/* usr/lib/selinux-testsuite/tests/
+policy/* usr/lib/selinux-testsuite/policy/
+tools/* usr/lib/selinux-testsuite/tools/
+Makefile usr/lib/selinux-testsuite/
+defconfig usr/lib/selinux-testsuite/

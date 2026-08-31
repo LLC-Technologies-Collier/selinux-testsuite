@@ -1,0 +1,5 @@
+selinux-testsuite (0.1-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1146374)
+
+ -- C.J. Collier <cjac@google.com>  Sun, 09 Aug 2026 05:13:15 +0000
